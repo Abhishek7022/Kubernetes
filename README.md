@@ -1,2 +1,2 @@
 # DevOps
-To new beginnings!!  All about devops from Abhishek's perspective
+To new beginnings!!  Making sense of kubernetes and DevOps from a unique perspective..
